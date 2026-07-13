@@ -1,0 +1,79 @@
+[
+    {
+        "name": "python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
+    },
+    {
+        "name": "pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+    {
+        "name": "numpy",
+        "icon": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
+    },
+    {
+        "name": "matplotlib",
+        "icon": "https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000"
+    },
+    {
+        "name": "seaborn",
+        "icon": "https://devicons.io/devicons/icons/seaborn-icon.svg"
+    },
+    {
+        "name": "scikit learn",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/960px-Scikit_learn_logo_small.svg.png?_=20180808062052"
+    },
+    {
+        "name": "pytorch",
+        "icon": "https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"
+    },
+    {
+        "name": "SQL Database",
+        "icon": "https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000"
+    },
+    {
+        "name": "tableau",
+        "icon": "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"
+    },
+    {
+        "name": "power BI",
+        "icon": "https://img.icons8.com/?size=100&id=70667&format=png&color=000000"
+    },
+    {
+        "name": "Streamlit",
+        "icon": "https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://img.icons8.com/?size=100&id=kLkU4c9YfQNM&format=png&color=000000"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=NL90I8YT1YnN&format=png&color=000000"
+    },
+    
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=vjqZo0sZlesU&format=png&color=000000"
+    },
+    {
+        "name": "Kaggle",
+        "icon": "https://img.icons8.com/?size=100&id=bMncK0wGFANA&format=png&color=000000"
+    },
+    {
+        "name": "statistical analysis",
+        "icon": "https://img.icons8.com/?size=100&id=63221&format=png&color=000000"
+    },
+     {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=100&id=5tOjPPf2Ak4j&format=png&color=000000"
+    }
+]
