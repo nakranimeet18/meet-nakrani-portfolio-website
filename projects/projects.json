@@ -5,7 +5,7 @@
   "demo": "https://heart-disease-prediction-0fnd.onrender.com",
   "tech": ["Python", "Scikit-learn", "Streamlit", "Plotly"]
 }
-  },
+  ,
 
   {
   "name": "Job Portal",
