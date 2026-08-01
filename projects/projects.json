@@ -1,10 +1,13 @@
-[{
-  "title": "Heart Disease Prediction",
-  "description": "ML-powered app that predicts cardiovascular risk from clinical indicators using a trained classification model.",
-  "github": "https://github.com/nakranimeet18/Heart-Disease-Prediction",
-  "demo": "https://heart-disease-prediction-0fnd.onrender.com",
-  "tech": ["Python", "Scikit-learn", "Streamlit", "Plotly"]
-}
+[[{
+    "name": "Heart Disease Prediction",
+    "desc": "ML-powered app that predicts cardiovascular risk from clinical indicators using a trained classification model.",
+    "image": "heart",
+    "category": "python",
+    "links": {
+      "code": "https://github.com/nakranimeet18/Heart-Disease-Prediction",
+      "view": "https://heart-disease-prediction-0fnd.onrender.com"
+    }
+  }
   ,
 
   {
