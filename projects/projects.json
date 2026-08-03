@@ -9,6 +9,23 @@
     }
   }
   ,
+     {
+
+    "name": "Mental Health Signal",
+
+    "desc": "An AI-powered Mental Health Prediction System built using Machine Learning and FastAPI. It analyzes students' academic, lifestyle, and social media habits to predict mental health risk and provides an interactive web interface for real-time predictions.",
+
+    "image": "mental-health-prediction-p1nh.onrender.com",
+
+    "category": "python",
+
+    "links": {
+
+      "code": "https://github.com/nakranimeet18/mental-health-prediction",
+
+      "view": "https://mental-health-prediction-p1nh.onrender.com"
+
+    },
 
   {
   "name": "Job Portal",
