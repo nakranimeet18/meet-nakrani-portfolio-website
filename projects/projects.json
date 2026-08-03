@@ -13,7 +13,7 @@
   {
     "name": "Mental Health Signal",
     "desc": "AI-powered Mental Health Prediction System using Machine Learning and FastAPI for real-time mental health risk prediction.",
-    "image": "mental",
+    "image": "mental2",
     "category": "python",
     "links": {
       "code": "https://github.com/nakranimeet18/mental-health-prediction",
