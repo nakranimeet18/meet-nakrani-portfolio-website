@@ -9,7 +9,6 @@
       "view": "https://heart-disease-prediction-0fnd.onrender.com"
     }
   },
-
   {
     "name": "Mental Health Signal",
     "desc": "AI-powered Mental Health Prediction System using Machine Learning and FastAPI for real-time mental health risk prediction.",
@@ -23,14 +22,13 @@
   {
     "name": "Student Hostel Management System",
     "desc": "A full-stack hostel management system for students, built using PHP, JavaScript, and MongoDB, enabling record-keeping and administration of hostel operations.",
-    "image": "hostel",
+    "image": "student2",
     "category": "web",
     "links": {
       "code": "https://github.com/nakranimeet18/student-hostel-management-system",
-       "view": "http://hostelmanegment.infinityfree.io/"
+      "view": "http://hostelmanegment.infinityfree.io/"
     }
   },
-
   {
     "name": "Job Portal",
     "desc": "A full-stack job application portal built with the MERN stack. Job seekers can register, browse listings, and apply online, while recruiters/admins manage job postings and applications through a role-based dashboard with JWT authentication.",
@@ -40,7 +38,6 @@
       "code": "https://github.com/nakranimeet18/job-portal-main"
     }
   },
-
   {
     "name": "Voice Assistance",
     "desc": "A Python-based voice assistant capable of understanding voice commands and performing automated tasks.",
@@ -50,7 +47,6 @@
       "code": "https://github.com/nakranimeet18/voice-assistance"
     }
   },
-
   {
     "name": "Guess the Number",
     "desc": "A simple interactive number-guessing game built in Python, demonstrating core logic and control flow concepts.",
@@ -60,7 +56,6 @@
       "code": "https://github.com/nakranimeet18/guess-the-number"
     }
   },
-
   {
     "name": "Rock Paper Caesar",
     "desc": "A Python-based twist on the classic Rock-Paper-Scissors game, incorporating Caesar-themed logic and rules.",
@@ -69,6 +64,5 @@
     "links": {
       "code": "https://github.com/nakranimeet18/rock-paper-Caesar"
     }
-  },
-
+  }
 ]
