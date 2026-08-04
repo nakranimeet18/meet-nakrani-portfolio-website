@@ -2,7 +2,7 @@
   {
     "name": "Heart Disease Prediction",
     "desc": "ML-powered app that predicts cardiovascular risk from clinical indicators using a trained classification model.",
-    "image": "heart",
+    "image": "heart2",
     "category": "python",
     "links": {
       "code": "https://github.com/nakranimeet18/Heart-Disease-Prediction",
@@ -35,7 +35,8 @@
     "image": "job",
     "category": "web",
     "links": {
-      "code": "https://github.com/nakranimeet18/job-portal-main"
+      "code": "https://github.com/nakranimeet18/job-portal-main",
+      "view": "https://meet-jobportal.netlify.app/"
     }
   },
   {
