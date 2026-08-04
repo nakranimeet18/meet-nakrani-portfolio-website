@@ -20,6 +20,16 @@
       "view": "https://mental-health-prediction-lu52.onrender.com"
     }
   },
+  {
+    "name": "Student Hostel Management System",
+    "desc": "A full-stack hostel management system for students, built using PHP, JavaScript, and MongoDB, enabling record-keeping and administration of hostel operations.",
+    "image": "hostel",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/nakranimeet18/student-hostel-management-system",
+       "view": "http://hostelmanegment.infinityfree.io/"
+    }
+  },
 
   {
     "name": "Job Portal",
@@ -61,13 +71,4 @@
     }
   },
 
-  {
-    "name": "Student Hostel Management System",
-    "desc": "A full-stack hostel management system for students, built using PHP, JavaScript, and MongoDB, enabling record-keeping and administration of hostel operations.",
-    "image": "hostel",
-    "category": "web",
-    "links": {
-      "code": "https://github.com/nakranimeet18/student-hostel-management-system"
-    }
-  }
 ]
