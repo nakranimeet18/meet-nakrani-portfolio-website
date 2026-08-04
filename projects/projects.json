@@ -31,7 +31,7 @@
   },
   {
     "name": "Job Portal",
-    "desc": "A full-stack job application portal built with the MERN stack. Job seekers can register, browse listings, and apply online, while recruiters/admins manage job postings and applications through a role-based dashboard with JWT authentication.",
+    "desc": "Full-stack MERN job portal where seekers browse and apply for jobs, while recruiters/admins manage postings via a secure, JWT-authenticated dashboard.",
     "image": "job",
     "category": "web",
     "links": {
