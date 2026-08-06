@@ -40,20 +40,6 @@ This is my personal portfolio website, showcasing my journey and projects in **D
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-
-### 🏠 Home Page
-![Home Page](./images/home-preview.png)
-
-### 👤 About Page
-![About Page](./images/about-preview.png)
-
-</div>
-
----
-
 ## 🚀 Deployment
 
 This site is deployed on **Netlify** with continuous deployment — every push to `main` automatically triggers a new build and republishes the live site.
