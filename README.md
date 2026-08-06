@@ -12,7 +12,7 @@
 
 ## 📖 About
 
-This is my personal portfolio website, showcasing my journey and projects in **Data Science**, **Machine Learning**, and **Data Analysis**. Built to highlight my skills, education, experience, and work — including projects like a **Heart Disease Prediction System** and a **Customer Retention Intelligence Platform**.
+This is my personal portfolio website, showcasing my journey and projects in **Data Science**, **Machine Learning**, and **Data Analysis**. Built to highlight my skills, education, experience, and work — including projects like a **Heart Disease Prediction System**, **student mental health pridiction system** and a **Customer Retention Intelligence Platform** and etc..
 
 🔗 **Live Demo:** [meetnakraniportfolio.netlify.app](https://meetnakraniportfolio.netlify.app)
 
