@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "MovexaAi(Movie Recommendation System)",
+    "desc": "Full-stack movie recommendation app using content-based TF-IDF filtering, with JWT authentication, PostgreSQL persistence, and admin-moderated community submissions.",
+    "image": "movexaAi",
+    "category": "python",
+    "links": {
+      "code": "https://github.com/nakranimeet18/movexaAI",
+      "view": "https://movexaai.onrender.com"
+    }
+  },
+  {
     "name": "Student Hostel Management System",
     "desc": "A full-stack hostel management system for students, built using PHP, JavaScript, and MongoDB, enabling record-keeping and administration of hostel operations.",
     "image": "student2",
