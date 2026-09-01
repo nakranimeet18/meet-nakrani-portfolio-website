@@ -32,7 +32,7 @@
   {
   "name": "TrinetrAI",
   "desc": "AI-powered image classification platform using deep learning for intelligent image analysis and object recognition.",
-  "image": "trinetrAI",
+  "image": "cnn",
   "category": "ai",
   "links": {
     "code": "https://github.com/nakranimeet18/TrinetrAI",
