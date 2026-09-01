@@ -30,6 +30,16 @@
     }
   },
   {
+  "name": "TrinetrAI",
+  "desc": "AI-powered image classification platform using deep learning for intelligent image analysis and object recognition.",
+  "image": "trinetrAI",
+  "category": "ai",
+  "links": {
+    "code": "https://github.com/nakranimeet18/TrinetrAI",
+    "view": "https://trinetrai.onrender.com/#about"
+  }
+},
+  {
     "name": "Student Hostel Management System",
     "desc": "A full-stack hostel management system for students, built using PHP, JavaScript, and MongoDB, enabling record-keeping and administration of hostel operations.",
     "image": "student2",
