@@ -30,6 +30,16 @@
     }
   },
   {
+  "name": "ChurnIQ Platform",
+  "desc": "Advanced ML-powered customer churn prediction platform that analyzes customer behavior and predicts churn risk using machine learning.",
+  "image": "churn",
+  "category": "python",
+  "links": {
+    "code": "https://github.com/nakranimeet18/CUSTOMERS-RETENTION-INTELLIGENCE-PLATFORM",
+    "view": "https://churniq-platform.onrender.com"
+  }
+},
+  {
     "name": "Student Hostel Management System",
     "desc": "A full-stack hostel management system for students, built using PHP, JavaScript, and MongoDB, enabling record-keeping and administration of hostel operations.",
     "image": "student2",
