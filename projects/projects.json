@@ -3,7 +3,7 @@
     "name": "Heart Disease Prediction",
     "desc": "ML-powered app that predicts cardiovascular risk from clinical indicators using a trained classification model.",
     "image": "heart2",
-    "category": "python",
+    "category": "python data-science machine-learning",
     "links": {
       "code": "https://github.com/nakranimeet18/Heart-Disease-Prediction",
       "view": "https://heart-disease-prediction-0fnd.onrender.com"
@@ -13,32 +13,32 @@
     "name": "Mental Health Signal",
     "desc": "AI-powered Mental Health Prediction System using Machine Learning and FastAPI for real-time mental health risk prediction.",
     "image": "mental2",
-    "category": "python",
+    "category": "python data-science machine-learning",
     "links": {
       "code": "https://github.com/nakranimeet18/mental-health-prediction",
       "view": "https://mental-health-prediction-lu52.onrender.com"
     }
   },
   {
-    "name": "MovexaAi(Movie Recommendation System)",
+    "name": "MovexaAi (Movie Recommendation System)",
     "desc": "Full-stack movie recommendation app using content-based TF-IDF filtering, with JWT authentication, PostgreSQL persistence, and admin-moderated community submissions.",
     "image": "movexaAi",
-    "category": "python",
+    "category": "python machine-learning",
     "links": {
       "code": "https://github.com/nakranimeet18/movexaAI",
       "view": "https://movexaai.onrender.com"
     }
   },
   {
-  "name": "ChurnIQ Platform",
-  "desc": "Advanced ML-powered customer churn prediction platform that analyzes customer behavior and predicts churn risk using machine learning.",
-  "image": "churn",
-  "category": "python",
-  "links": {
-    "code": "https://github.com/nakranimeet18/CUSTOMERS-RETENTION-INTELLIGENCE-PLATFORM",
-    "view": "https://churniq-platform.onrender.com"
-  }
-},
+    "name": "ChurnIQ Platform",
+    "desc": "Advanced ML-powered customer churn prediction platform that analyzes customer behavior and predicts churn risk using machine learning.",
+    "image": "churn",
+    "category": "python data-science machine-learning",
+    "links": {
+      "code": "https://github.com/nakranimeet18/CUSTOMERS-RETENTION-INTELLIGENCE-PLATFORM",
+      "view": "https://churniq-platform.onrender.com"
+    }
+  },
   {
     "name": "Student Hostel Management System",
     "desc": "A full-stack hostel management system for students, built using PHP, JavaScript, and MongoDB, enabling record-keeping and administration of hostel operations.",
